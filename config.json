@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://taufiqxfoxyykontol.danzxn-buyer.my.id:11168",
+  "apiVersion": "v1",
+  "endpoints": {
+    "listUsers": "/listUsers",
+    "login": "/login",
+    "dashboard": "/dashboard"
+  },
+  "settings": {
+    "timeout": 15000,
+    "enableLog": true
+  }
+}
